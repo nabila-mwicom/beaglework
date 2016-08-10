@@ -12,6 +12,7 @@ using namespace std;
 
 int main() {
 	cout << multi(2,6) << endl;
+	cout << endl;
 	return 0;
 }
 
